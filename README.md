@@ -1,6 +1,6 @@
 # Machine Learning Assignment_1
 
-This repository includes one executable Assignment_1.py file and one PDF file(Report).
+This repository includes executable Assignment_1.py, ML_Assignment_1.ipybn files and one PDF file(Report).
 How to run: 
 1) Run 'Assignment_1.py'.
 2) Enjoy!
